@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1507940122 source:c:\program files (x86)\codeblocks\extrasensory2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
